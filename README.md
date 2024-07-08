@@ -17,9 +17,10 @@
 - [Tablero](#tablero)
 
 ## Enlaces a repositorios
-[![Frontend](https://badgen.net/badge/Frontend/ElephanTalk%20Principal%20App/blue?icon=github)](https://github.com/kevocodes/ElephanTalk-Frontend)
-[![Frontend](https://badgen.net/badge/Frontend/ElephanTalk%20Moderation/blue?icon=github)](https://github.com/kevocodes/ElephanTalk-Moderation)
-[![Backend](https://badgen.net/badge/Backend/ElephanTalk%20API/blue?icon=github)](https://github.com/kevocodes/ElephanTalk-Backend)
+[![Frontend](https://badgen.net/badge/Frontend/ElephanTalk%20Principal%20App/blue?icon=https://codeberg.org/Codeberg/Design/raw/branch/main/logo/icon/svg/codeberg-logo_icon_blue.svg)](https://codeberg.org/kevocodes/ElephanTalk-Frontend)
+[![Frontend](https://badgen.net/badge/Frontend/ElephanTalk%20Moderation/blue?icon=https://codeberg.org/Codeberg/Design/raw/branch/main/logo/icon/svg/codeberg-logo_icon_blue.svg)](https://codeberg.org/kevocodes/ElephanTalk-Moderation)
+[![Backend](https://badgen.net/badge/Backend/ElephanTalk%20API/blue?icon=https://codeberg.org/Codeberg/Design/raw/branch/main/logo/icon/svg/codeberg-logo_icon_blue.svg)](https://codeberg.org/kevocodes/ElephanTalk-Backend)
+
 
 ## Aspectos generales
 

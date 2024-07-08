@@ -1,7 +1,6 @@
 ## Índice
 
 - [Enlaces a repositorios](#enlaces-a-repositorios)
-- [Índice](#índice)
 - [Aspectos generales](#aspectos-generales)
   - [Objetivos del Documento](#objetivos-del-documento)
   - [Descripción General](#descripción-general)

@@ -1,11 +1,6 @@
-## Enlaces de los repositorios
-[![Frontend](https://badgen.net/badge/Frontend/ElephanTalk%20Principal%20App/blue?icon=github)](https://github.com/kevocodes/ElephanTalk-Frontend)
-[![Frontend](https://badgen.net/badge/Frontend/ElephanTalk%20Moderation/blue?icon=github)](https://github.com/kevocodes/ElephanTalk-Moderation)
-[![Backend](https://badgen.net/badge/Backend/ElephanTalk%20API/blue?icon=github)](https://github.com/kevocodes/ElephanTalk-Backend)
-
 ## Índice
 
-- [Enlaces de los repositorios](#enlaces-de-los-repositorios)
+- [Enlaces a repositorios](#enlaces-a-repositorios)
 - [Índice](#índice)
 - [Aspectos generales](#aspectos-generales)
   - [Objetivos del Documento](#objetivos-del-documento)
@@ -21,6 +16,11 @@
 - [Compatibilidad de licencias](#compatibilidad-de-licencias)
 - [Tipos de error](#tipos-de-error)
 - [Tablero](#tablero)
+
+## Enlaces a repositorios
+[![Frontend](https://badgen.net/badge/Frontend/ElephanTalk%20Principal%20App/blue?icon=github)](https://github.com/kevocodes/ElephanTalk-Frontend)
+[![Frontend](https://badgen.net/badge/Frontend/ElephanTalk%20Moderation/blue?icon=github)](https://github.com/kevocodes/ElephanTalk-Moderation)
+[![Backend](https://badgen.net/badge/Backend/ElephanTalk%20API/blue?icon=github)](https://github.com/kevocodes/ElephanTalk-Backend)
 
 ## Aspectos generales
 
@@ -174,7 +174,7 @@ La implementación de estos patrones refleja un enfoque estructurado y bien pens
 
 ### Diagrama de modelo de datos
 
-![alt text](<no relation db.png>)
+![no relation db](https://github.com/kevocodes/ElephanTalk/assets/62626446/a8e9fa4e-9233-4ae6-b189-5d2a4d809b90)
 
 ## Guía de configuración
 

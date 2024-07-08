@@ -1,3 +1,27 @@
+## Enlaces de los repositorios
+[![Frontend](https://badgen.net/badge/Frontend/ElephanTalk%20Principal%20App/blue?icon=github)](https://github.com/kevocodes/ElephanTalk-Frontend)
+[![Frontend](https://badgen.net/badge/Frontend/ElephanTalk%20Moderation/blue?icon=github)](https://github.com/kevocodes/ElephanTalk-Moderation)
+[![Backend](https://badgen.net/badge/Backend/ElephanTalk%20API/blue?icon=github)](https://github.com/kevocodes/ElephanTalk-Backend)
+
+## Índice
+
+- [Enlaces de los repositorios](#enlaces-de-los-repositorios)
+- [Índice](#índice)
+- [Aspectos generales](#aspectos-generales)
+  - [Objetivos del Documento](#objetivos-del-documento)
+  - [Descripción General](#descripción-general)
+  - [Requerimientos del Sistema](#requerimientos-del-sistema)
+  - [Software utilizado:](#software-utilizado)
+- [Arquitectura del Sistema](#arquitectura-del-sistema)
+  - [Patrones de diseño](#patrones-de-diseño)
+  - [Diagrama de modelo de datos](#diagrama-de-modelo-de-datos)
+- [Guía de configuración](#guía-de-configuración)
+  - [Configuración para el front end del sistema](#configuración-para-el-front-end-del-sistema)
+  - [Configuración para el back end del sistema](#configuración-para-el-back-end-del-sistema)
+- [Compatibilidad de licencias](#compatibilidad-de-licencias)
+- [Tipos de error](#tipos-de-error)
+- [Tablero](#tablero)
+
 ## Aspectos generales
 
 ### Objetivos del Documento

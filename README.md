@@ -1,6 +1,7 @@
 ## Índice
 
-- [Enlaces a repositorios](#enlaces-a-repositorios)
+- [Repositorios](#repositorios)
+- [Manuales de usuario](#manuales-de-usuario)
 - [Aspectos generales](#aspectos-generales)
   - [Objetivos del Documento](#objetivos-del-documento)
   - [Descripción General](#descripción-general)
@@ -16,11 +17,13 @@
 - [Tipos de error](#tipos-de-error)
 - [Tablero](#tablero)
 
-## Enlaces a repositorios
+## Repositorios
 [![Frontend](https://badgen.net/badge/Frontend/ElephanTalk%20Principal%20App/blue?icon=https://codeberg.org/Codeberg/Design/raw/branch/main/logo/icon/svg/codeberg-logo_icon_blue.svg)](https://codeberg.org/kevocodes/ElephanTalk-Frontend)
 [![Frontend](https://badgen.net/badge/Frontend/ElephanTalk%20Moderation/blue?icon=https://codeberg.org/Codeberg/Design/raw/branch/main/logo/icon/svg/codeberg-logo_icon_blue.svg)](https://codeberg.org/kevocodes/ElephanTalk-Moderation)
 [![Backend](https://badgen.net/badge/Backend/ElephanTalk%20API/blue?icon=https://codeberg.org/Codeberg/Design/raw/branch/main/logo/icon/svg/codeberg-logo_icon_blue.svg)](https://codeberg.org/kevocodes/ElephanTalk-Backend)
 
+## Manuales de usuario
+Enlace de los manuales de usuario: [Manuales de usuario](https://github.com/kevocodes/ElephanTalk/tree/main/Documents)
 
 ## Aspectos generales
 
